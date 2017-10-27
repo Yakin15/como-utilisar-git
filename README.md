@@ -5,12 +5,17 @@ Lo primero que debes hacer cuando instales **GIT** es etablecer tu nombre de usu
 
 **Configurar tu nombre:**
 
-`git config --global user.name "NOMBRE"`
+`$ git config --global user.name "NOMBRE"`
 
 **configurar tu email:**
 
-`git config --global user.email "tu@email.com"`
+`$ git config --global user.email "tu@email.com"`
 
 **configurar tu Editor de codigo:**
 
-`git config --global core.editor "atom"`
+`$ git config --global core.editor "atom"`
+
+
+Si quieres comprobar tu configuracion de git puedes usar ente comando:
+
+`$ git config --list`
