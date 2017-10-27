@@ -16,6 +16,6 @@ Lo primero que debes hacer cuando instales **GIT** es etablecer tu nombre de usu
 `$ git config --global core.editor "atom"`
 
 
-Si quieres comprobar tu configuracion de git puedes usar ente comando:
+Si quieres comprobar tu configuracion de git puedes usar este comado para listar todas las propiedades que GIT a configurado:
 
 `$ git config --list`
